@@ -1,2 +1,2 @@
 #Depots;#Facilities;Vehicle Capacity;Lower_bound;Upper_bound;No. of vehicles;p;q;number_of_mandatory_facilities;number_of_mandatory_facilities_excl_depot
-1;49;10000000000;10344;10344;10;8;7200.0;10;9
+1;49;60;10344;10344;10;8;7200.0;10;9
