@@ -1,2 +1,0 @@
-#Depots;#Facilities;Vehicle Capacity;Cost Type;No. of vehicles;p;q;aid_per_person_kg;ground_speed;helicopter_speed;landing_duration;trucking_dist_factor;handling_duration_per_kg;routing_cost_scaling_factor
-12;280;3200,0;generic;4;20;570,0;0,467;10;150;3;1,2;0,07;58,905096376350016

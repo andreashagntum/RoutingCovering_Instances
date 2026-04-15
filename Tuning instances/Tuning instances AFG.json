@@ -1,12 +1,12 @@
 [
-  "Baghlan s1_Mi-8_hS120_gS10_dall_dP1_cD4_h1_f1_bs1",
-  "Baghlan s1_Mi-8_hS120_gS5_dall_dP1_cD1_h1_f1_bs1",
-  "Baghlan s1_Mi-8_hS180_gS5_dall_dP1_cD1_h1_f1_bs1",
-  "Baghlan s0.75_Mi-8_hS150_gS10_dall_dP1_cD1_h1_f1_bs1",
-  "Baghlan s1_Mi-8_hS120_gS5_dall_dP1_cD6_h1_f1_bs1",
-  "Baghlan s0.75_Mi-8_hS120_gS5_dall_dP1_cD2_h1_f1_bs1",
-  "Baghlan s0.5_Mi-8_hS180_gS5_dall_dP1_cD1_h1_f1_bs1",
-  "Baghlan s1_Mi-8_hS180_gS10_dall_dP1_cD1_h1_f1_bs1",
-  "Baghlan s0.75_Mi-8_hS150_gS10_dall_dP1_cD6_h1_f1_bs1",
-  "Baghlan s1_Mi-8_hS120_gS10_dall_dP1_cD2_h1_f1_bs1"
+  "Baghlan ai1_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD4_sT1_rcS1_rmCDTrue",
+  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD3_sT3_rcS1_rmCDTrue",
+  "Baghlan ai1_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD1_sT1_rcS0.5_rmCDTrue",
+  "Baghlan ai0.5_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt1_cD4_sT3_rcS1_rmCDTrue",
+  "Baghlan ai1_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD4_sT2_rcS0.1_rmCDTrue",
+  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD4_sT3_rcS1_rmCDTrue",
+  "Baghlan ai0.5_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt1_cD3_sT3_rcS0.5_rmCDTrue",
+  "Baghlan ai0.5_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt4_cD4_sT2_rcS0.5_rmCDTrue",
+  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt1_cD2_sT1_rcS0.5_rmCDTrue",
+  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD2_sT1_rcS0.5_rmCDTrue"
 ]
