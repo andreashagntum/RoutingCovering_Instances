@@ -1,12 +1,12 @@
 [
-  "s40k60m2-alpha0.25",
-  "s25k30m5-alpha0.5",
-  "s40k70m2-alpha0.5",
-  "s35k50m5-alpha0.5",
-  "s25k40m4-alpha0.25",
+  "s35k50m3-alpha0.25",
   "s50k80m1-alpha0.75",
-  "s10k20m4-alpha0.5",
-  "s25k20m1-alpha0.5",
-  "s10k40m5-alpha0.5",
-  "s50k80m1-alpha0.25"
+  "s10k30m1-alpha0.25",
+  "s35k50m2-alpha0.75",
+  "s25k30m2-alpha0.75",
+  "s40k70m5-alpha0.25",
+  "s25k20m5-alpha0.5",
+  "s50k70m1-alpha0.5",
+  "s10k50m5-alpha0.5",
+  "s40k70m2-alpha0.5"
 ]
