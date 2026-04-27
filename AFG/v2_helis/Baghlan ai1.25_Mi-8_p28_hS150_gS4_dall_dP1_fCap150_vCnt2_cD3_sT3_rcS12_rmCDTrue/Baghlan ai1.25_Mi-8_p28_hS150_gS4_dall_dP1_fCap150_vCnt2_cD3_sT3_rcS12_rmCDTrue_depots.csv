@@ -1,0 +1,15 @@
+Name;Latitude;Longitude;Cost;Capacity;ClearName;Type
+depot_1;34,565899;69,212303;0;2724;Kabul International Airport;medium_airport
+depot_2;34,946098;69,264999;0;2724;Bagram Airfield;medium_airport
+depot_3;37,122148;70,5201;0;2724;Fayzabad Airport;small_airport
+depot_4;37,10681;69,848892;0;2724;Rostaq Airport;small_airport
+depot_5;36,029893;70,714159;0;2724;Razer Airport;small_airport
+depot_6;36,770699;69,531998;0;2724;Taleqan Airport;small_airport
+depot_7;37,061623;69,487765;0;2724;Khwaja Ghar South Airport;small_airport
+depot_8;36,01707;70,76085;0;2724;Koran va Monjan  Airport;small_airport
+depot_9;37,459;69,646599;0;2724;Yangi Qaleh Airport;small_airport
+depot_10;37,423302;69,430298;0;2724;Qara Tepa Heliport;heliport
+depot_11;34,548535;69,06869;0;2724;Camp Qargha North Heliport;heliport
+depot_12;34,539752;69,071963;0;2724;Camp Qargha South Heliport;heliport
+depot_13;34,54016;69,30969;0;2724;Camp Warehouse Heliport;heliport
+depot_14;34,54526;69,27494;0;2724;UNOCA Heliport;heliport
