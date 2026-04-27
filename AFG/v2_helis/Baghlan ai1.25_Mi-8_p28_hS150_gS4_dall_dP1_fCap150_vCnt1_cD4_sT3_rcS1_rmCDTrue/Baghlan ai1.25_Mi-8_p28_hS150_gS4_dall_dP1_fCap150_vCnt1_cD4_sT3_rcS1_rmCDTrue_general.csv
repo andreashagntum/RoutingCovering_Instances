@@ -1,2 +1,0 @@
-#Depots;#Facilities;Vehicle Capacity;No. of vehicles;p;q;affected_individuals_factor;ground_speed;helicopter_speed;landing_duration;trucking_dist_factor;routing_cost_scaling_factor;household_size;max_covering_duration;service_threshold;facility_capacity;critical_coverings_cnt_threshold
-14;345;3200,0;1;28;570,0;1,25;4;150;3;1,2;1,0;7;4,0;3,0;150;100

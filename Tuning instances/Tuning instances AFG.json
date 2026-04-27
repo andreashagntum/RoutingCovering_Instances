@@ -1,12 +1,12 @@
 [
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt4_cD2_sT2_rcS0.5_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD4_sT4_rcS1_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt4_cD3_sT3_rcS0.5_rmCDTrue",
-  "Baghlan ai1_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD4_sT2_rcS1_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD3_sT2_rcS1_rmCDTrue",
-  "Baghlan ai1_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt3_cD4_sT3_rcS0.1_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD2_sT2_rcS0.5_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt4_cD4_sT3_rcS1_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt2_cD3_sT3_rcS1_rmCDTrue",
-  "Baghlan ai0.75_Mi-8_p28_hS150_gS4_dall_dP1_fCap200_vCnt4_cD3_sT2_rcS0.5_rmCDTrue"
+  "Baghlan ai0.75_vCnt2_cD4_sT4_rcS1",
+  "Baghlan ai1_vCnt2_cD2_sT2_rcS1",
+  "Baghlan ai0.75_vCnt4_cD4_sT3_rcS1",
+  "Baghlan ai1.25_vCnt3_cD3_sT3_rcS3",
+  "Baghlan ai1.25_vCnt3_cD4_sT3_rcS0.1",
+  "Baghlan ai1_vCnt3_cD3_sT2_rcS3",
+  "Baghlan ai0.75_vCnt4_cD3_sT3_rcS1",
+  "Baghlan ai1_vCnt4_cD2_sT2_rcS1",
+  "Baghlan ai1.25_vCnt3_cD3_sT2_rcS0.1",
+  "Baghlan ai1_vCnt3_cD4_sT2_rcS3"
 ]
