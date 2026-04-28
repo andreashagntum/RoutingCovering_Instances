@@ -78,7 +78,8 @@ The `Tuning instances/` directory contains one JSON file per instance set. Each 
 
 ## Lower and Upper Bounds
 
-The `Lower and upper bounds/` directory contains one CSV file per instance set, reporting the best known lower and upper bounds for each instance. A bound value of `0` indicates that no information for the respective bound type was available at the time of writing. Sources are as described in the per-instance-set sections above.
+The `Lower and upper bounds/` directory contains one CSV file per instance set, reporting the best known lower and upper bounds for each instance.
+A bound value of `0` (lower bounds) or `1E+10` (upper bounds) or indicates that no information for the respective bound type was available at the time of writing. Sources are as described in the per-instance-set sections above.
 
 ---
 
