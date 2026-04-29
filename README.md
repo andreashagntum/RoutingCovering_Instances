@@ -16,6 +16,7 @@ The instances were used to benchmark and evaluate the **Adaptive Variable Neighb
 RoutingCovering_Instances/
 ├── AFG/                             # Case study instances (Afghanistan food aid)
 ├── Lower and upper bounds/          # Known bounds for all instance sets
+├── Solutions/                       # Solutions for all test instances, computed using the algorithm proposed in Hagn et al. (2026)
 ├── m-CTP-p (Glize)/                 # Benchmark instances from Glize et al. (2020)
 ├── m-CTP (Pham)/                    # Benchmark instances from Pham et al. (2017)
 ├── mandatory m-CTP-p (Oliveira)/    # Benchmark instances from Oliveira et al. (2024)
@@ -38,19 +39,23 @@ Each instance set, the paper in which it was first proposed, and the source of i
 ### m-CTP (Pham)
 - **First proposed in:** Pham, Hà, Nguyen (2017): *Solving the multi-vehicle multi-covering tour problem.* DOI: [10.1016/j.cor.2017.07.009](https://doi.org/10.1016/j.cor.2017.07.009)
 - **Bounds:** Upper and lower bounds obtained from the supplementary material of Oliveira et al. (2024), DOI: [10.1007/s10288-025-00584-0](https://doi.org/10.1007/s10288-025-00584-0). Note: Oliveira (2024) does not underperform Pham (2017) on any instance.
-
+-  **Note:** The m-CTP assumes no customer demands, facility capacities, or vehicle capacities. All said values are set to dummy values.
+- 
 ### m-CTP-p (Glize)
 - **First proposed in:** Glize et al. (2020): *Exact methods for mono-objective and bi-objective multi-vehicle covering tour problems.* DOI: [10.1016/j.ejor.2019.11.045](https://doi.org/10.1016/j.ejor.2019.11.045)
 - **Bounds:** Upper and lower bounds obtained from the supplementary material of Oliveira et al. (2024), DOI: [10.1007/s10288-025-00584-0](https://doi.org/10.1007/s10288-025-00584-0).
 - **Note:** Oliveira (2024) does not underperform Glize (2020) on any instance. Note also that the instances used by Pham (2017) and Glize (2020) are identical except for their value of *q*.
+-  **Note:** The m-CTP-p assumes no customer demands, facility capacities, or vehicle capacities. All said values are set to dummy values.
 
 ### mandatory m-CTP-p (Oliveira) and non-mandatory m-CTP-p (Oliveira)
 - **First proposed in:** Oliveira, Pessoa, Roboredo (2024): *New cuts and a branch-cut-and-price model for the multi-vehicle covering tour problem.* DOI: [10.1007/s10288-025-00584-0](https://doi.org/10.1007/s10288-025-00584-0)
 - **Bounds:** Upper and lower bounds obtained from the supplementary material of Oliveira et al. (2024), DOI: [10.1007/s10288-025-00584-0](https://doi.org/10.1007/s10288-025-00584-0).
+-  **Note:** The m-CTP-p assumes no customer demands, facility capacities, or vehicle capacities. All said values are set to dummy values.
 
 ### VRDAP (Ghoniem)
 - **First proposed in:** Reihaneh & Ghoniem (2018): *A multi-start optimization-based heuristic for a food bank distribution problem.* DOI: [10.1057/s41274-017-0220-9](https://doi.org/10.1057/s41274-017-0220-9)
 - **Bounds:** No lower bounds were available in the literature at the time of writing; the values provided here are self-computed by solving the LP relaxation of the model proposed in DOI: [10.48550/arXiv.2411.17510](https://doi.org/10.48550/arXiv.2411.17510). Upper bounds were obtained from Bruno Oliveira (derived using the ILS in Oliveira (2025), DOI: [10.1007/s10732-025-09557-2](https://doi.org/10.1007/s10732-025-09557-2)).
+-  **Note:** The VRDAP assumes no facility capacities, or route length restrictions. All said values are set to dummy values.
 
 ---
 
@@ -79,7 +84,7 @@ The `Tuning instances/` directory contains one JSON file per instance set. Each 
 ## Lower and Upper Bounds
 
 The `Lower and upper bounds/` directory contains one CSV file per instance set, reporting the best known lower and upper bounds for each instance.
-A bound value of `0` (lower bounds) or `1E+10` (upper bounds) or indicates that no information for the respective bound type was available at the time of writing. Sources are as described in the per-instance-set sections above.
+A bound value of `0` (lower and upper bounds) or `1E+10` (upper bounds) indicates that no information for the respective bound type was available at the time of writing. Sources are as described in the per-instance-set sections above.
 
 ---
 

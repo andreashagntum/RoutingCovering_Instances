@@ -24,7 +24,8 @@ and covering costs (proxy for burden on beneficiaries).
 ## Instance Construction
 
 Each instance is derived from a **baseline instance** (see `baseline_instance/` subdirectory) by adjusting the five 
-parameters described below. The baseline is constructed as follows:
+parameters described below. An implementation of the test instance constructor used for the proposed instances can be found in the following repository:
+https://github.com/andreashagntum/RoutingCovering_AVNS. The baseline is constructed as follows:
 
 ### Beneficiary Locations and Demands
 
@@ -155,4 +156,4 @@ https://github.com/andreashagntum/RoutingCovering_AVNS.
 
 Sources for the aforementioned data are provided in the paper cited at the beginning of this readme.
 
-Furthermore, test instances can also be constructed from scratch using the data provided in the subdirectory `input_data/`.
+Furthermore, test instances can also be constructed from scratch using the data provided in the subdirectory `input_data/`. 

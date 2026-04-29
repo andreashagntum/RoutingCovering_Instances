@@ -1,0 +1,5 @@
+Type;Data;Source;Remarks
+Aircraft Type;Mil Mi-8 AMT;https://www.blueskyrotor.com/performance/datasheet/Mil/Mi_8-Mi_8-AMT;
+Range (in km);570;https://www.blueskyrotor.com/performance/datasheet/Mil/Mi_8-Mi_8-AMT;
+Maximum Payload (in kg);3200;https://www.blueskyrotor.com/performance/datasheet/Mil/Mi_8-Mi_8-AMT; 4000 kg according to source. Reduced by 20% to account for increased fuel consumption in high-altitude areas
+Maximum Altitude (in m);5400;https://www.blueskyrotor.com/performance/datasheet/Mil/Mi_8-Mi_8-AMT;6000 m according to source. Reduced by 10% to account for operation with high payloads

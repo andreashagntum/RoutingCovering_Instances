@@ -1,0 +1,13 @@
+File;Source
+Customer Input Data/Flood May 10-11 2024 affected_individuals_per_district.csv;based on file afghanistan-natural-disaster-incidents-from-january-to-december-2024.xlsx from https://data.humdata.org/dataset/afghanistan-natural-disaster-incidents
+Customer Input Data/geoBoundaries-AFG-ADM1.geojson;https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-afghanistan
+Customer Input Data/geoBoundaries-AFG-ADM2.geojson;https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-afghanistan
+Customer Input Data/Population raster data/afg_pop_2024_CN_1km_R2025A_UA_v1.tif;file afg_pop_2024_cn_1km.tif from https://data.humdata.org/dataset/worldpop-population-counts-2015-2030-afg
+Depot Input Data/DE af-airports pruned with helipads.csv;https://data.humdata.org/dataset/ourairports-afg
+Facility Input Data/elevation_grid_Baghlan.npy;self-computed based on elevation data from TanDEM 30m precision elevation data(downloadable under https://download.geoservice.dlr.de/TDM30_EDEM/)
+Facility Input Data/forbidden_mask_Baghlan.npy;self-computed based on elevation data from WorldCover 2021 v200 (see https://esa-worldcover.org/en/data-access)
+Facility Input Data/latitudes_Baghlan.npy;self-computed based on elevation grid, forbidden mask, and water mask (format matches their cell sizes)
+Facility Input Data/longitudes_Baghlan.npy;self-computed based on elevation grid, forbidden mask, and water mask (format matches their cell sizes)
+Facility Input Data/water_mask_Baghlan.npy;self-computed based on elevation data from WorldCover 2021 v200 (see https://esa-worldcover.org/en/data-access)
+Facility Input Data/osm_graph_data_with_terrain_Baghlan.npz;https://data.humdata.org/dataset/hotosm_afg_roads, enhanced by introduction of additional edges to ensure graph connectivity
+General Input Data/Aircraft data Mi-8.csv;https://www.blueskyrotor.com/performance/datasheet/Mil/Mi_8-Mi_8-AMT
