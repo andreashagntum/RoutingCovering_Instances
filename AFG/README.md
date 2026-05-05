@@ -2,7 +2,7 @@
 
 This directory contains test instances for a real-world case study on helicopter-based food aid distribution in the **Baghlan province of Afghanistan**, motivated by the May 2024 flash floods. The instances were constructed by the authors of the following paper and are not derived from any prior benchmark set:
 
-> Hagn, A., Krause, J., Moreno, L., Stargalla, M. (2026). *An Adaptive Variable Neighborhood Search for a Family of Set 
+> Hagn, A., Krause, J., Stargalla, M., Moreno, L. (2026). *An Adaptive Variable Neighborhood Search for a Family of Set 
 > Covering Routing Problems with an Application in Disaster Relief Operations.* arXiv Preprint: https://arxiv.org/abs/2411.17510
 
 **If you use these instances in your own work, please cite the paper above.**

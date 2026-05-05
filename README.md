@@ -4,7 +4,7 @@ This repository contains test instances for a family of **Set Covering Routing P
 
 The instances were used to benchmark and evaluate the **Adaptive Variable Neighborhood Search (AVNS)** proposed in:
 
-> Hagn, A., Krause, J., Moreno, L., Stargalla, M. (2026). *An Adaptive Variable Neighborhood Search for a Family of Set Covering Routing Problems with an Application in Disaster Relief Operations.*  arXiv Preprint: https://arxiv.org/abs/2411.17510
+> Hagn, A., Krause, J., Stargalla, M., Moreno, L. (2026). *An Adaptive Variable Neighborhood Search for a Family of Set Covering Routing Problems with an Application in Disaster Relief Operations.*  arXiv Preprint: https://arxiv.org/abs/2411.17510
 
 **If you use any of these instances in your own work, please cite the paper above**, as well as the original paper(s) in which the respective instance set was first proposed (see below).
 
